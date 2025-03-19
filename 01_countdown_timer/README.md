@@ -1,6 +1,6 @@
-Here's your **README.md** file in complete Markdown format:  
 
-```markdown
+
+
 # Day 1: Countdown Timer
 
 ## Description
