@@ -1,5 +1,5 @@
 
-# Day 30: Birthday Wish 🎉🎂
+# Day 03: Birthday Wish 🎉🎂
 
 ## Description
 A simple birthday wish application to celebrate special moments.
